@@ -1,0 +1,13 @@
+body{
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: solid;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 100px;
+    background-color: aquamarine;
+    
+}
+button{
+    background-color:olive;
+}
